@@ -1,0 +1,22 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/customers/page": "app/customers/page.js",
+  "/ai-copilot/page": "app/ai-copilot/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/inventory/page": "app/inventory/page.js",
+  "/billing/page": "app/billing/page.js",
+  "/page": "app/page.js",
+  "/gst/page": "app/gst/page.js",
+  "/payments/page": "app/payments/page.js",
+  "/products/page": "app/products/page.js",
+  "/expenses/page": "app/expenses/page.js",
+  "/purchases/page": "app/purchases/page.js",
+  "/audit-logs/page": "app/audit-logs/page.js",
+  "/reminders/page": "app/reminders/page.js",
+  "/reports/page": "app/reports/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/sales/page": "app/sales/page.js",
+  "/suppliers/page": "app/suppliers/page.js",
+  "/voice-calling/page": "app/voice-calling/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
